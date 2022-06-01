@@ -1,7 +1,7 @@
 ## Witaj 👋, jestem Damian
 ### Jestem studentem WSB Gdańsk
 
-####🔭 Mam ponad 7 letnie doświadczenie jako tester oprogramowania. 
+#### 🔭 Mam ponad 7 letnie doświadczenie jako tester oprogramowania. 
 Swoje doświadczenie zdobywałem w takich firmach jak:
 - NComputing Poland (jako młodszy tester oprogramowania)
 - SolwIT S.A (jako tester oprogramwowania, lider zespołu)
